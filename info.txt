@@ -1,3 +1,7 @@
+                     Module Structure
+
+ Module can be considered as a block of code that provide a simple or complex functionality that can communicate with external application. Modules can be organized in a single file or a collection of multiple files/folders.                     
+
 Modules are of two types ES module and common js(CJS)
 By default all modules are created in common js 
 export and import are not  used in common js
