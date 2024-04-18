@@ -1,0 +1,7 @@
+Modules are of two types ES module and common js(CJS)
+By default all modules are created in common js 
+export and import are not  used in common js
+
+if we have to use import & export we have to convert it to ES module
+we use "type": "module" in package.json or 
+if we don't have package.json we can give all files extension as .mjs where we want to use import & export
