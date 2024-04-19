@@ -1,6 +1,6 @@
  //file handling through node.js
 
- //fs => file system is inbuilt feature of node to handle files through program
+ //fs => file system is inbuilt package of node to handle files through program
  const fs = require("fs");
 
 
